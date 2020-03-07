@@ -1,0 +1,17 @@
+The time is for both coming and going.
+The first time is for friday and saturday
+The second time is for the rest of the days of the week.
+
+bashundhara-uttara-20-35 min
+bashundhara-cantonment-15,20,25-30,45,50 min
+bashundhara-farmgate-50-105 min
+bashundhara-dhanmondi-100-115 min
+
+uttara-cantonment-16-26,30 min
+uttara-farmgate-115-145 min
+uttara-dhanmondi-110-130 min
+
+cantonment-farmgate-20-45 min
+cantonment-dhanmondi-35-55 min
+
+farmgate-dhanmondi-10-25 min
